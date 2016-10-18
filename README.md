@@ -3,7 +3,7 @@
 
 ## Author
 
-
+Susan Mumma
 
 ## Description
 
@@ -115,6 +115,7 @@ It may be beneficial for you to create extra methods within the droid sub classe
 
 ## Outside Resources Used
 
-
+https://msdn.microsoft.com/en-us/library/system.console.readline(v=vs.110).aspx "Console.Readline Method"
+https://msdn.microsoft.com/en-us/library/370s1zax.aspx "Do loop"
 
 ## Known Problems, Issues, And/Or Errors in the Program
